@@ -1,0 +1,8 @@
+com\copeuch\tarea\model\Tarea.class
+com\copeuch\tarea\common\GlobalExceptionHandler.class
+com\copeuch\tarea\services\ITareaService.class
+com\copeuch\tarea\TareaApplication$1.class
+com\copeuch\tarea\rescontroller\TareaController.class
+com\copeuch\tarea\repository\ITareaRepository.class
+com\copeuch\tarea\services\ITareaServiceImpl.class
+com\copeuch\tarea\TareaApplication.class
