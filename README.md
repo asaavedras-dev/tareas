@@ -7,7 +7,7 @@
    ![image](https://user-images.githubusercontent.com/25494881/135249720-66118018-3de1-406c-8031-2f3adec23451.png)
 
 
-2. Para desplegar la aplicacion de front en react se debe ubicar en la ruta tarea_fe, en esta debe ejecutar **docker build -t tareas_front .** para crear la imagen con el build del contenedor y luego ejecutar **docker run -p 3000:3000 --name tareas_front -d tareas_front** para desplegar el front en el puerto 3000.
+2. Para desplegar la aplicacion de front en react se debe ubicar en la ruta tarea_fe primero ejecuta **npm install**. En esta debe ejecutar **docker build -t tareas_front .** para crear la imagen con el build del contenedor y luego ejecutar **docker run -p 3000:3000 --name tareas_front -d tareas_front** para desplegar el front en el puerto 3000.
 
 
 
